@@ -47,4 +47,9 @@ source venv/bin/activate  # On Unix/macOS
 pip install -r requirements.txt
 ```
 
-4. Create a `.env` file in the project root and add your Groq API key:
+4. Create a `.env` file in the project root and add your Groq API key
+
+### 🏃‍♂️ Run the Streamlit app:
+```bash
+streamlit run app.py
+```
